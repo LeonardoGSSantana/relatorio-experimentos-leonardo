@@ -4,21 +4,21 @@ Este repositório contém os relatórios e evidências da execução de 10 exper
 
 ---
 
-## 👤 Autor e Instituição
+## Autor e Instituição
 * **Aluno:** Leonardo Gabriel Santos Santana
 * **Instituição:** Afya – Montes Claros
 * **Curso/Disciplina:** Programação em Tempo Real
 
 ---
 
-## 📁 Estrutura de Arquivos no Repositório
+## Estrutura de Arquivos no Repositório
 * `PRINT DOS RESULTADOS.pdf`: Documento consolidado contendo as capturas de tela das execuções dos scripts.
 * `PROGRAMAÇÃO EM TEMPO REAL_experimentos.pdf`: Relatório final estruturado em formato PDF com os objetivos, procedimentos e conclusões.
 * `PROGRAMAÇÃO EM TEMPO REAL_experimentos.docx`: Versão editável em Word do relatório final de experimentos.
 
 ---
 
-## 🔬 Resumo dos 10 Experimentos Executados
+## Resumo dos 10 Experimentos Executados
 
 ### 1. Produtor-Consumidor e Fila (`04_queue_producer_consumer.py`)
 * **Objetivo:** Analisar o comportamento de uma fila compartilhada entre processos produtores e consumidores para desacoplar a produção de dados e reduzir perdas.
@@ -52,5 +52,5 @@ Este repositório contém os relatórios e evidências da execução de 10 exper
 
 ---
 
-## 🎯 Conclusão Geral
+## Conclusão Geral
 A execução prática dos cenários simulados comprovou que em Sistemas de Tempo Real o cumprimento rigoroso dos requisitos de tempo e o planejamento do escalonamento são fundamentais para assegurar a **previsibilidade**, a **confiabilidade** e a **segurança** das aplicações.
